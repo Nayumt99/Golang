@@ -28,7 +28,7 @@ func main() {
 }
 
 func exibeIntroducao() {
-	nome := "Nayum"
+	nome := "Name"
 	versao := 1.1
 	fmt.Println("Olá sr.", nome)
 	fmt.Println("Este programa está na versão", versao)
@@ -50,7 +50,14 @@ func leComando() int {
 
 func iniciarMonitoramento() {
 	fmt.Print("Monitorando...")
-	site := "https://www.alura.com.br/"
+	var sites [4]string
+	sites[0] = "https://random-status-code.herokuapp.com/"
+	sites[1] = "https://www.alura.com.br/"
+	sites[2] = "https://www.caelum.com.br"
+	fmt.Println(reflect.TypeOf(sites))
+	fmt.Println(sites)
+
+	site := "https://random-status-code.herokuapp.com/"
 	resp, _ := http.Get(site)
 
 	if resp.StatusCode == 200 {
@@ -59,4 +66,3 @@ func iniciarMonitoramento() {
 		fmt.Println("Site:", site, "está com problemas. Status Code:", resp.StatusCode)
 	}
 }
-
