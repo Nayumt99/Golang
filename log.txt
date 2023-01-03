@@ -1,0 +1,105 @@
+https://www.casadocodigo.com.br- online: trueline: falsesite-falso- online: falsehttps://random-status-code.herokuapp.com/- online: falsehttps://www.alura.com.br/- online: truehttps://www.caelum.com.br- online: truehttps://www.casadocodigo.com.br- online: truehttps://random-status-code.herokuapp.com/- online: falsehttps://www.alura.com.br/- online: truehttps://www.caelum.com.br- online: truehttps://www.casadocodigo.com.br- online: truehttps://random-status-code.herokuapp.com/- online: falsehttps://www.alura.com.br/- online: truehttps://www.caelum.com.br- online: truehttps://www.casadocodigo.com.br- online: truehttps://random-status-code.herokuapp.com/- online: falsehttps://www.alura.com.br/- online: truehttps://www.caelum.com.br- online: truehttps://www.casadocodigo.com.br- online: truehttps://random-status-code.herokuapp.com/- online: falsehttps://www.alura.com.br/- online: truehttps://www.caelum.com.br- online: truehttps://www.casadocodigo.com.br- online: truesite-falso- online: false
+https://random-status-code.herokuapp.com/- online: false
+https://www.alura.com.br/- online: true
+https://www.caelum.com.br- online: true
+https://www.casadocodigo.com.br- online: true
+https://random-status-code.herokuapp.com/- online: false
+https://www.alura.com.br/- online: true
+https://www.caelum.com.br- online: true
+https://www.casadocodigo.com.br- online: true
+https://random-status-code.herokuapp.com/- online: false
+https://www.alura.com.br/- online: true
+https://www.caelum.com.br- online: true
+https://www.casadocodigo.com.br- online: true
+https://random-status-code.herokuapp.com/- online: false
+https://www.alura.com.br/- online: true
+https://www.caelum.com.br- online: true
+https://www.casadocodigo.com.br- online: true
+https://random-status-code.herokuapp.com/- online: false
+https://www.alura.com.br/- online: true
+https://www.caelum.com.br- online: true
+https://www.casadocodigo.com.br- online: true
+03/01/2023 10:03:47 - site-falso- online: false
+03/01/2023 10:03:48 - https://random-status-code.herokuapp.com/- online: false
+03/01/2023 10:03:49 - https://www.alura.com.br/- online: true
+03/01/2023 10:03:49 - https://www.caelum.com.br- online: true
+03/01/2023 10:04:00 - https://www.casadocodigo.com.br- online: true
+03/01/2023 10:04:06 - https://random-status-code.herokuapp.com/- online: false
+03/01/2023 10:04:06 - https://www.alura.com.br/- online: true
+03/01/2023 10:04:06 - https://www.caelum.com.br- online: true
+03/01/2023 10:04:06 - https://www.casadocodigo.com.br- online: true
+03/01/2023 10:04:12 - https://random-status-code.herokuapp.com/- online: false
+03/01/2023 10:04:12 - https://www.alura.com.br/- online: true
+03/01/2023 10:04:12 - https://www.caelum.com.br- online: true
+03/01/2023 10:04:13 - https://www.casadocodigo.com.br- online: true
+03/01/2023 10:04:18 - https://random-status-code.herokuapp.com/- online: false
+03/01/2023 10:04:18 - https://www.alura.com.br/- online: true
+03/01/2023 10:04:19 - https://www.caelum.com.br- online: true
+03/01/2023 10:04:19 - https://www.casadocodigo.com.br- online: true
+03/01/2023 10:04:24 - https://random-status-code.herokuapp.com/- online: false
+03/01/2023 10:04:24 - https://www.alura.com.br/- online: true
+03/01/2023 10:04:25 - https://www.caelum.com.br- online: true
+03/01/2023 10:04:25 - https://www.casadocodigo.com.br- online: true
+03/01/2023 10:04:42 - site-falso- online: false
+03/01/2023 10:04:51 - https://random-status-code.herokuapp.com/- online: false
+03/01/2023 10:04:51 - https://www.alura.com.br/- online: true
+03/01/2023 10:04:52 - https://www.caelum.com.br- online: true
+03/01/2023 10:04:52 - https://www.casadocodigo.com.br- online: true
+03/01/2023 10:04:57 - https://random-status-code.herokuapp.com/- online: false
+03/01/2023 10:04:58 - https://www.alura.com.br/- online: true
+03/01/2023 10:04:58 - https://www.caelum.com.br- online: true
+03/01/2023 10:04:58 - https://www.casadocodigo.com.br- online: true
+03/01/2023 10:05:04 - https://random-status-code.herokuapp.com/- online: false
+03/01/2023 10:05:04 - https://www.alura.com.br/- online: true
+03/01/2023 10:05:04 - https://www.caelum.com.br- online: true
+03/01/2023 10:05:04 - https://www.casadocodigo.com.br- online: true
+03/01/2023 10:05:10 - https://random-status-code.herokuapp.com/- online: false
+03/01/2023 10:05:10 - https://www.alura.com.br/- online: true
+03/01/2023 10:05:10 - https://www.caelum.com.br- online: true
+03/01/2023 10:05:10 - https://www.casadocodigo.com.br- online: true
+03/01/2023 10:05:16 - https://random-status-code.herokuapp.com/- online: false
+03/01/2023 10:05:16 - https://www.alura.com.br/- online: true
+03/01/2023 10:05:16 - https://www.caelum.com.br- online: true
+03/01/2023 10:05:16 - https://www.casadocodigo.com.br- online: true
+03/01/2023 10:06:10 - site-falso - online: false
+03/01/2023 10:06:23 - https://random-status-code.herokuapp.com/ - online: false
+03/01/2023 10:06:23 - https://www.alura.com.br/ - online: true
+03/01/2023 10:06:24 - https://www.caelum.com.br - online: true
+03/01/2023 10:06:24 - https://www.casadocodigo.com.br - online: true
+03/01/2023 10:06:30 - https://random-status-code.herokuapp.com/ - online: false
+03/01/2023 10:06:30 - https://www.alura.com.br/ - online: true
+03/01/2023 10:06:30 - https://www.caelum.com.br - online: true
+03/01/2023 10:06:30 - https://www.casadocodigo.com.br - online: true
+03/01/2023 10:06:36 - https://random-status-code.herokuapp.com/ - online: false
+03/01/2023 10:06:36 - https://www.alura.com.br/ - online: true
+03/01/2023 10:06:36 - https://www.caelum.com.br - online: true
+03/01/2023 10:06:36 - https://www.casadocodigo.com.br - online: true
+03/01/2023 10:06:42 - https://random-status-code.herokuapp.com/ - online: false
+03/01/2023 10:06:42 - https://www.alura.com.br/ - online: true
+03/01/2023 10:06:42 - https://www.caelum.com.br - online: true
+03/01/2023 10:06:43 - https://www.casadocodigo.com.br - online: true
+03/01/2023 10:06:48 - https://random-status-code.herokuapp.com/ - online: false
+03/01/2023 10:06:48 - https://www.alura.com.br/ - online: true
+03/01/2023 10:06:48 - https://www.caelum.com.br - online: true
+03/01/2023 10:06:49 - https://www.casadocodigo.com.br - online: true
+03/01/2023 10:12:09 - https://random-status-code.herokuapp.com/ - online: false
+03/01/2023 10:12:09 - https://www.alura.com.br/ - online: true
+03/01/2023 10:12:10 - https://www.caelum.com.br - online: true
+03/01/2023 10:12:10 - https://www.casadocodigo.com.br - online: true
+03/01/2023 10:12:16 - https://random-status-code.herokuapp.com/ - online: false
+03/01/2023 10:12:16 - https://www.alura.com.br/ - online: true
+03/01/2023 10:12:16 - https://www.caelum.com.br - online: true
+03/01/2023 10:12:16 - https://www.casadocodigo.com.br - online: true
+03/01/2023 10:12:22 - https://random-status-code.herokuapp.com/ - online: false
+03/01/2023 10:12:22 - https://www.alura.com.br/ - online: true
+03/01/2023 10:12:22 - https://www.caelum.com.br - online: true
+03/01/2023 10:12:22 - https://www.casadocodigo.com.br - online: true
+03/01/2023 10:12:28 - https://random-status-code.herokuapp.com/ - online: false
+03/01/2023 10:12:28 - https://www.alura.com.br/ - online: true
+03/01/2023 10:12:28 - https://www.caelum.com.br - online: true
+03/01/2023 10:12:28 - https://www.casadocodigo.com.br - online: true
+03/01/2023 10:12:34 - https://random-status-code.herokuapp.com/ - online: false
+03/01/2023 10:12:34 - https://www.alura.com.br/ - online: true
+03/01/2023 10:12:34 - https://www.caelum.com.br - online: true
+03/01/2023 10:12:34 - https://www.casadocodigo.com.br - online: true
+03/01/2023 10:13:29 - site-falso - online: false
