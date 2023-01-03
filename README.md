@@ -12,3 +12,4 @@ Com um instalador simples, basta selecionar o  sistema operacional, e executa-l�
 - Criando o primeiro arquivo .go (todos arquivos golang, são salvos com esta extensão), o próprio VSC nos possibilita instalar todos os pacotes nele desta linguagem.
 
 
+[Aprenda Go com Testes](https://larien.gitbook.io/aprenda-go-com-testes/primeiros-passos-com-go/maps)
