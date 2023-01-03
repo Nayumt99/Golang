@@ -14,5 +14,7 @@ Com um instalador simples, basta selecionar o  sistema operacional, e executa-l√
 
 # Material de Apoio
 [Biblioteca Go padr√£o](https://pkg.go.dev/std)
+
 :brazil: [Aprenda Go com Testes](https://larien.gitbook.io/aprenda-go-com-testes/primeiros-passos-com-go/maps)
+
 :brazil: [Aprenda Go](https://www.youtube.com/playlist?list=PLCKpcjBB_VlBsxJ9IseNxFllf-UFEXOdg)
